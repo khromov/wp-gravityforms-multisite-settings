@@ -1,4 +1,4 @@
-###Gravity Forms Multisite Global Settings
+###Gravity Forms Multisite Global Settings Plugin
 
 This plugin lets you set Gravity Forms settings for an entire multisite.
 Once the settings are set, users of individual blogs can't override them.
