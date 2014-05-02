@@ -8,9 +8,9 @@ Install this plugin into the /wp-content/mu-plugins/ directory of your multisite
 
 ```php
 /* Global settings that will be active across the multisite */
-define('GF_DISABLE_CSS', false);
-define('GF_OUTPUT_HTML5', false);
-define('GF_NO_CONFLICT_MODE', false);
+define('GF_DISABLE_CSS', 0);
+define('GF_OUTPUT_HTML5', 0);
+define('GF_NO_CONFLICT_MODE', 0);
 define('GF_RECAPTCHA_PUBLIC_KEY', '');
 define('GF_RECAPTCHA_PRIVATE_KEY', '');
 define('GF_LICENSE_KEY', '');
