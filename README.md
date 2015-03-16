@@ -16,4 +16,4 @@ define('GF_RECAPTCHA_PRIVATE_KEY', '');
 define('GF_LICENSE_KEY', '');
 ```
 
-Now you can modify these settings globally.
+These settings will be set globally on all sites, both sites that are already created and future ones as well.
